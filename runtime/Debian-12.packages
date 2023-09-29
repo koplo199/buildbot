@@ -102,3 +102,116 @@ libxtst6                          libXtst.so.6
 libvpx7                           libvpx.so.7
 libcrypt1                         libcrypt.so.1
 libpcre3                          libpcre.so.3
+libaio1                           libaio.so.1
+liballegro4.4                     liballeg.so.4.4
+libatk1.0-0                       libatk-1.0.so.0
+libaudio2                         libaudio.so.2
+libavcodec59                      libavcodec.so.59
+libavformat59                     libavformat.so.59
+libavutil57                       libavutil.so.57
+libswscale6                       libswscale.so.6
+libenet7                          libenet.so.7
+libcairo2                         libcairo.so.2
+libcdio19                         libcdio.so.19
+libdatrie1                        libdatrie.so.1
+libfaad2                          libfaad.so.2
+libfluidsynth3                    libfluidsynth.so.3
+libfribidi0                       libfribidi.so.0
+libfuse2                          libfuse.so.2
+libfontconfig1                    libfontconfig.so.1
+libfreetype6                      libfreetype.so.6
+libgcrypt20                       libgcrypt.so.20
+libgpg-error0                     libgpg-error.so.0
+libgtk2.0-0                       libgdk-x11-2.0.so.0
+libgdk-pixbuf2.0-0                libgdk_pixbuf-2.0.so.0
+libgif7                           libgif.so.7
+libglew2.2                        libGLEW.so.2.2
+libgloox18                        libgloox.so.18
+libgnutls30                       libgnutls.so.30 libnettle.so.6 libhogweed.so.4 libgmp.so.10 libtasn1.so.6 libidn2.so.0
+libgomp1                          libgomp.so.1
+libgraphite2-3                    libgraphite2.so.3
+libharfbuzz0b                     libharfbuzz.so.0
+libicu72                          libicui18n.so.72 libicuuc.so.72 libicudata.so.72
+libirrlicht1.8                    libIrrlicht.so.1.8
+libjansson4                       libjansson.so.4
+libjbig0                          libjbig.so.0
+libjson-c5                        libjson-c.so.5
+libldap-2.5-0                     libldap-2.5.so.0 liblber-2.5.so.0
+libsasl2-2                        libsasl2.so.2
+libgssapi3-heimdal                libgssapi.so.3
+libheimntlm0-heimdal              libheimntlm.so.0
+libkrb5-26-heimdal                libkrb5.so.26
+libasn1-8-heimdal                 libasn1.so.8
+libcom-err2                       libcom_err.so.2
+libhcrypto5-heimdal               libhcrypto.so.5
+libroken19-heimdal                libroken.so.19
+libwind0-heimdal                  libwind.so.0
+libheimbase1-heimdal              libheimbase.so.1
+libhx509-5-heimdal                libhx509.so.5
+libleveldb1d                      libleveldb.so.1d
+liblua5.1-0                       liblua5.1.so.0
+liblua5.2-0                       liblua5.2.so.0
+libluajit-5.1-2                   libluajit-5.1.so.2
+libmad0                           libmad.so.0
+libmikmod3                        libmikmod.so.3
+libminiupnpc17                    libminiupnpc.so.17
+libmodplug1                       libmodplug.so.1
+libmpeg2-4                        libmpeg2.so.0 libmpeg2convert.so.0
+libmpg123-0                       libmpg123.so.0
+libncurses5                       libncurses.so.5
+libncursesw5                      libncursesw.so.5
+libjpeg62-turbo                   libjpeg.so.62
+libreadline8                      libhistory.so.8 libreadline.so.8
+libpango-1.0-0                    libpango-1.0.so.0
+libpangocairo-1.0-0               libpangocairo-1.0.so.0
+libpangoft2-1.0-0                 libpangoft2-1.0.so.0
+libphysfs1                        libphysfs.so.1
+libportaudio2                     libportaudio.so.2
+libpulse0                         libpulse-simple.so.0 libpulse.so.0 /usr/lib/i386-linux-gnu/pulseaudio/libpulsecommon-11.1.so /usr/lib/x86_64-linux-gnu/pulseaudio/libpulsecommon-11.1.so
+libsdl2-image-2.0-0               libSDL2_image-2.0.so.0
+libsdl2-mixer-2.0-0               libSDL2_mixer-2.0.so.0
+libsdl2-ttf-2.0-0                 libSDL2_ttf-2.0.so.0
+libsdl-net1.2                     libSDL_net-1.2.so.0
+libsdl-sound1.2                   libSDL_sound-1.0.so.1
+libsdl-ttf2.0-0                   libSDL_ttf-2.0.so.0
+libsnappy1v5                      libsnappy.so.1
+libsndio7.0                       libsndio.so.7
+libsoundtouch1                    libSoundTouch.so.1
+libsoxr0                          libsoxr.so.0
+libstdc++5                        libstdc++.so.5
+libthai0                          libthai.so.0
+libtiff6                          libtiff.so.6
+libtinfo5                         libtinfo.so.5
+libupnp13                         libupnp.so.13
+libv4lconvert0                    libv4lconvert.so.0
+libwebp7                          libwebp.so.7
+libwxbase3.2-1                    libwx_baseu-3.2.so.0
+libwxgtk3.2-1                     libwx_gtk3u_core-3.2.so.0 libwx_gtk3u_adv-3.2.so.0
+libx264-164                       libx264.so.164
+libxinerama1                      libXinerama.so.1
+libxshmfence1                     libxshmfence.so.1
+libxml2                           libxml2.so.2
+libxslt1.1                        libxslt.so.1 libexslt.so.0
+libzzip-0-13                      libzzip-0.so.13
+zlib1g                            libz.so.1
+libcurl4                          libcurl.so.4
+libnghttp2-14                     libnghttp2.so.14
+libpcre3                          libpcre.so.3
+libpsl5                           libpsl.so.5
+libssl3                           libcrypto.so.3 libssl.so.3
+libunistring2                     libunistring.so.2
+libuuid1                          libuuid.so.1
+librtmp1                          librtmp.so.1
+libxtst6                          libXtst.so.6
+libvpx7                           libvpx.so.7
+libcrypt1                         libcrypt.so.1
+libpcre3                          libpcre.so.3
+gstreamer1.0-plugins-good         libgsty4menc.so libgstxingmux.so libgstwavparse.so libgstvpx.so libgstvideofilter.so libgstvideobox.so libgstspeex.so libgstsoup.so libgstnavigationtest.so libgstmpg123.so libgstmatroska.so libgstjpeg.so libgstisomp4.so libgstid3demux.so libgstflxdec.so libgstflv.so libgstflac.so libgstdeinterlace.so libgstdebug.so libgstavi.so libgstautodetect.so libgstaudioparsers.so libgstadaptivedemux2.so
+gstreamer1.0-plugins-bad          libgsty4mdec.so libgstwebp.so libgstwaylandsink.so libgstvmnc.so libgstvideosignal.so libgstvideoparsersbad.so libgstvideoframe_audiolevel.so libgstvideofiltersbad.so libgstva.so libgstv4l2codecs.so libgstuvch264.so libgstttmlsubs.so libgsttranscode.so libgsttimecode.so libgstswitchbin.so libgstsubenc.so libgstspeed.so libgstsndfile.so libgstsmoothstreaming.so libgstsmooth.so libgstsiren.so libgstshm.so libgstsegmentclip.so libgstsdpelem.so libgstsctp.so libgstrtponvif.so libgstrtpmanagerbad.so libgstrtmp2.so libgstrist.so libgstrfbsrc.so libgstremovesilence.so libgstproxy.so libgstpnm.so libgstpcapparse.so libgstopusparse.so libgstopenal.so libgstnetsim.so libgstmxf.so libgstmpegtsmux.so libgstmpegtsdemux.so libgstmpegpsmux.so libgstmpegpsdemux.so libgstmidi.so libgstlegacyrawparse.so libgstkms.so libgstjpegformat.so libgstjp2kdecimator.so libgstivtc.so libgstivfparse.so libgstipcpipeline.so libgstinterlace.so libgstinter.so libgstid3tag.so libgsthls.so libgstgtkwayland.so libgstgeometrictransform.so libgstgdp.so libgstgaudieffects.so libgstfrei0r.so libgstfreeverb.so libgstfieldanalysis.so libgstfestival.so libgstfaceoverlay.so libgstdvdspu.so libgstdvbsuboverlay.so libgstdvbsubenc.so libgstdvb.so libgstdtls.so libgstdebugutilsbad.so libgstdash.so libgstcolormanagement.so libgstcoloreffects.so libgstcodectimestamper.so libgstcodecalpha.so libgstclosedcaption.so libgstcamerabin.so libgstbz2.so libgstbayer.so libgstautoconvert.so libgstaudiovisualizers.so libgstaudiomixmatrix.so libgstaudiolatency.so libgstaudiofxbad.so libgstaudiobuffersplit.so libgstasfmux.so libgstaiff.so libgstaes.so libgstadpcmenc.so libgstadpcmdec.so libgstaccurip.so
+gstreamer1.0-x                    libgstximagesink.so
+gstreamer1.0-plugins-base         libgstvorbis.so libgstvideoconvertscale.so libgsttypefindfunctions.so libgsttheora.so libgstrawparse.so libgstplayback.so libgstpbtypes.so libgstopus.so libgstogg.so libgstaudioresample.so libgstaudioconvert.so libgstapp.so libgstadder.so
+gstreamer1.0-plugins-ugly         libgstrealmedia.so libgstdvdsub.so libgstdvdlpcmdec.so libgstasf.so
+gstreamer1.0-gl                   libgstopengl.so
+gstreamer1.0-libav                libgstlibav.so
+libgstreamer1.0-0                 libgstcoretracers.so libgstcoreelements.so
+# Not found : libgstdav1d.so (gstreamer-plugins-rs not packaged in Debian 12)
